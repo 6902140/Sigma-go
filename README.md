@@ -1,30 +1,19 @@
-# 机巧围棋(CleverGo)
-![GitHub Repo stars](https://img.shields.io/github/stars/QPT-Family/QPT-CleverGo)
-![GitHub forks](https://img.shields.io/github/forks/QPT-Family/QPT-CleverGo)
-![GitHub](https://img.shields.io/github/license/QPT-Family/QPT-CleverGo)
-[![QQGroup](https://img.shields.io/badge/QQ群-935098082-9cf?logo=tencent-qq&logoColor=000&logoWidth=15)](https://jq.qq.com/?_wv=1027&k=qFlk0VWG)
+# $Sigma-go$ $西安交通大学计算机导论大作业$
 
 
-[GitHub主页](https://github.com/QPT-Family/QPT-CleverGo)
+[GitHub仓库链接](https://github.com/6902140/Sigma-go)
 
-机巧围棋(CleverGo)是基于Python+Pygame+PaddlePaddle打造的一款点击按钮就能可视化地训练围棋人工智能的程序。
+sigma-go是基于Python+Pygame+PaddlePaddle打造的一款点击按钮就能可视化地训练围棋人工智能的程序
 
 机巧围棋通过模块化设计，搭建了一整套简单易用的围棋AI学习、开发、训练及效果可视化验证框架。
 
-期望大家能够*Star*支持机巧围棋鸭~！
 
-## 版本说明
-> 当前版本为尝鲜版，可能会有未测试出的Bug。如发现问题，强烈建议加QQ群935098082与我们进行交流，我们仍在更新~
-
-## 安装说明
+## 安装依赖说明
 Python版本: `3.7`
-
-下载链接: `https://github.com/QPT-Family/QPT-CleverGo/archive/refs/heads/main.zip`
 
 依赖安装: `pip install -r requirements.txt`
 
 音乐资源: 在项目`assets/`文件夹下创建`musics`文件夹，并将任意`.mp3`格式音频文件放入该文件夹下即可。
-可选音乐资源包：[下载链接](https://pan.baidu.com/s/1XPWUcVkfy3NLGLKb3VkLRA) ，提取码`tixk`。
 
 ## 功能说明
 - 程序启动入口：`play_game.py`
@@ -48,8 +37,8 @@ Python版本: `3.7`
 3. 游戏引擎(Pygame)核心方法
 4. 深度学习框架(PaddlePaddle)核心方法
 5. 深度强化学习基本原理方法
-6. AlphaGo基本原理
-7. CleverGo项目程序设计方法原理
-8. CleverGo未来规划
+6. sigma-go基本原理
+7. sigma-go项目程序设计方法原理
+8. sigma-go未来规划
 
-具体规划请参见：[机巧围棋(CleverGo)技术原理文档](https://github.com/QPT-Family/QPT-CleverGo/blob/main/docs/%E6%9C%BA%E5%B7%A7%E5%9B%B4%E6%A3%8B(CleverGo)%E6%8A%80%E6%9C%AF%E5%8E%9F%E7%90%86%E6%96%87%E6%A1%A3.md)
+
